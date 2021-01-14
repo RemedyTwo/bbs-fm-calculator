@@ -1,0 +1,297 @@
+Commande,1er ingrédient,2nd ingrédient,Type,%
+Coup éclair,Coup éclair rapide,Taille jackpot,O,90
+Coup éclair,Déferlement Barr.,Taille miracle,P,90
+Coup éclair,Taille électrique,Taille jackpot,K,90
+Pluie de météores,Coup éclair,Séisme,N,100
+Pluie de météores,Frappe enflammée,Explosion brutale,D,100
+Heure magique,Coup éclair,Gravité nulle X,O,90
+Heure magique,Déferlement Barr.,Rafale X,N,90
+Estoc Brasier,Estoc glissé,Brasier,D,100
+Estoc Brasier,Estoc glissé,Brasier +,C,100
+Estoc Brasier,Frappe étourdiss.,Brasier,D,100
+Brume sombre,Estoc Brasier,Gravité nulle +,D,100
+Brume sombre,Estoc Brasier,Black-out,A,100
+Brume sombre,Déferlement Bras.,Gravité nulle,C,100
+Aquilon,Coup éclair,Brume sombre,D,90
+Aquilon,Coup éclair,Glissade aérien.,N,90
+Aquilon,Estoc Brasier,Déferlement Fdr.,K,90
+Lame du chaos,Brume sombre,Aquilon,B,90
+Zantetsuken,Brume sombre,Stop X,B,80
+Zantetsuken,Aquilon,Stop X,F,80
+Diskobolos,Coup éclair rapide,Estoc glissé,O,100
+Lancer bloquant,Diskobolos,Glacier +,I,100
+Lancer bloquant,Taille gelante,Frappe d'entrave,K,100
+Lancer aimant,Diskobolos,Taille jackpot,O,100
+Lancer aimant,Taille jackpot,Aimant,D,100
+Lancer aimant,Taille jackpot,Aimant +,K,100
+Lancer étincelle,Lancer bloquant,Aimant X,J,100
+Lancer étincelle,Lancer aimant,Aimant X,N,100
+Lancer étincelle,Déferlement Fdr.,Roulade,P,20
+Lancer étincelle,Foudre X,Roulade,L,20
+Lancer étincelle,Roulade,Parade choc,L,20
+Lancer venteux,Lancer bloquant,Rafale X,B,100
+Lancer venteux,Lancer aimant,Rafale X,F,100
+Déferlement Bras.,Estoc Brasier,Mise à feu,D,100
+Déferlement Bras.,Frappe enflammée,Brasier +,A,100
+Déferlement Bras.,Frappe étoudiss.,Brasier +,O,100
+Déferlement Bras.,Frappe d'entrave,Brasier +,K,100
+Déferlement Barr.,Estoc Brasier,Barrière,D,100
+Déferlement Barr.,Taille électrique,Barrière,K,100
+Déferlement Fdr.,Estoc Brasier,Foudre +,D,100
+Déferlement Fdr.,Lancer bloquant,Foudre +,G,100
+Déferlement Fdr.,Taille électrique,Foudre +,I,100
+Déferlement Fdr.,Frappe étourdiss.,Foudre +,I,95
+Slam aérien,Estoc Brasier,Super saut,A,100
+Slam aérien,Déferlement Bras.,Rafale,D,100
+Slam aérien,Frappe enflammée,Rafale +,C,90
+Ars Solum,Brume sombre,Aquilon,B,20
+Ars Solum,Brume sombre,Stop X,B,20
+Ars Solum,Aquilon,Stop X,F,20
+Ars Solum,Estoc glissé,Foudre,K,5
+Ars Solum,Diskobolos,Foudre,L,5
+Ars Solum,Diskobolos,Foudre +,K,5
+Ars Solum,Frappe étourdiss.,Foudre +,I,5
+Arcanes,Coup éclair,Slam aérien,F,100
+Arcanes,Coup éclair rapide,Taille jackpot,O,10
+Arcanes,Frappe enflammée,Rafale +,C,10
+Arcanes,Coup éclair rapide,Glacier,G,5
+Arcanes,Coup éclair rapide,Glacier +,H,5
+Arcanes,Estoc glissé,Glacier,E,5
+Arcanes,Estoc glissé,Glacier +,G,5
+Arcanes,Taille venimeuse,Soin +,P,5
+Arcanes,Taille gelante,Soin +,G,5
+Donne-Temps,Slam aérien,Stop X,F,100
+Donne-Temps,Stop X,Barrière,C,20
+Donne-Temps,Déferlement Barr.,Taille miracle,P,10
+Donne-Temps,Taille électrique,Taille jackpot,K,10
+Taille venimeuse,Coup éclair rapide,Arsenic,O,95
+Taille venimeuse,Estoc glissé,Arsenic,K,95
+Taille venimeuse,Diskobolos,Arsenic,D,95
+Taille miracle,Diskobolos,Déferlement Barr.,O,100
+Taille miracle,Déferlement Barr.,Taille électrique,K,100
+Taille miracle,Taille électrique,Frappe d'entrave,J,100
+Taille gelante,Coup éclair rapide,Glacier,G,95
+Taille gelante,Coup éclair rapide,Glacier +,H,95
+Taille gelante,Estoc glissé,Glacier,E,95
+Taille gelante,Estoc glissé,Glacier +,G,95
+Taille électrique,Estoc glissé,Foudre,K,95
+Taille électrique,Diskobolos,Foudre,L,95
+Taille électrique,Diskobolos,Foudre +,K,95
+Taille jackpot,Taille miracle,Soin,O,100
+Taille jackpot,Taille venimeuse,Soin +,P,95
+Taille jackpot,Taille gelante,Soin +,G,95
+Taille jackpot,Soin X,Parade guéris.,N,90
+Taille jackpot,Soin X,Parade conc.,P,90
+Taille jackpot,Soin X,Barrière guéris.,N,90
+Taille jackpot,Soin X,Barrière conc.,P,90
+Frappe enflammée,Taille venimeuse,Brasier +,D,100
+Frappe enflammée,Taille miracle,Mise à feu,A,100
+Frappe enflammée,Taille électrique,Brasier,K,100
+Frappe étourdiss.,Coup éclair rapide,Folie,O,100
+Frappe étourdiss.,Estoc glissé,Gravité nulle,K,100
+Frappe étourdiss.,Diskobolos,Folie,G,100
+Frappe d'entrave,Coup éclair rapide,Ficelage,K,100
+Frappe d'entrave,Diskobolos,Ficelage,O,100
+Frappe d'entrave,Taille électrique,Gravité nulle,I,100
+Explosion brutale,Taille électrique,Bouclier mine,O,70
+Explosion brutale,Frappe d'entrave,Mine carrée,L,70
+Frappe tornade,Frappe étourdiss.,Rafale X,G,100
+Frappe tornade,Frappe d'entrave,Rafale X,F,100
+Spirale aimantée,Frappe d'entrave,Collision aimantée,K,100
+Spirale aimantée,Frappe d'entrave,Aimant X,J,100
+Spirale aimantée,Coup éclair rapide,Aimant +,K,20
+Spirale aimantée,Taille électrique,Aimant +,L,20
+Spirale aimantée,Gravité nulle +,Aimant,I,20
+Coupe-vent,Frappe d'entrave,Rafale X,F,100
+Coupe-vent,Frappe étourdiss.,Rafale X,G,100
+Tempête limite,Explosion brutale,Frappe étourdiss.,G,100
+Tempête limite,Explosion brutale,Frappe d'entrave,D,100
+Salut,Lancer venteux,Soin X,N,100
+Collision aimantée,Coup éclair rapide,Aimant +,K,80
+Collision aimantée,Taille électrique,Aimant +,L,80
+Collision aimantée,Gravité nulle +,Aimant,I,80
+Géo-Impact,Explosion brutale,Explosion brutale,N,70
+Sacrifice,Brume sombre,Zappeur,B,100
+Sacrifice,Taille venimeuse,Zappeur,D,100
+Courte pause,Soin X,Parade guéris.,N,10
+Courte pause,Soin X,Barrière guéris.,N,10
+Courte pause,Soin X,Parade conc.,P,10
+Courte pause,Soin X,Barrière conc.,P,10
+Brasier +,Estoc Brasier,Brasier,D,100
+Brasier +,Frappe enflammée,Brasier,D,100
+Brasier +,Brasier,Brasier,A,100
+Brasier +,Brasier,Mise à feu,C,100
+Brasier X,Estoc Brasier,Brasier +,D,90
+Brasier X,Brasier,Brasier +,A,90
+Brasier X,Brasier +,Brasier +,B,90
+Brasier X obscur,Brume sombre,Brasier X,D,100
+Brasier X obscur,Brasier X,Black-out,B,100
+Brasier X fission,Brasier +,Rafale X,A,80
+Brasier X fission,Brasier X,Rafale +,A,80
+Brasier X fission,Brasier X,Rafale X,B,80
+Triple Brasier X,Brasier +,Brasier X,A,95
+Triple Brasier X,Coup éclair,Brasier X,D,90
+Triple Brasier X,Brasier X,Brasier X,B,90
+Brasier rampant,Brasier X,Somni,A,80
+Brasier rampant,Brasier X,Stop +,D,80
+Brasier rampant,Brasier X,Stop X,B,80
+Glacier +,Diskobolos,Glacier,G,100
+Glacier +,Taille gelante,Glacier,G,100
+Glacier +,Glacier,Glacier,E,100
+Glacier +,Glacier,Rafale,H,100
+Glacier X,Taille gelante,Glacier +,G,100
+Glacier X,Glacier,Glacier +,E,100
+Glacier X,Glacier +,Glacier +,F,100
+Triple Glacier X,Coup éclair,Glacier X,G,100
+Triple Glacier X,Glacier +,Glacier X,E,100
+Triple Glacier X,Glacier X,Glacier X,F,100
+Foudre +,Taille électrique,Foudre,K,100
+Foudre +,Foudre,Foudre,I,100
+Foudre +,Gravité nulle,Aimant,L,100
+Foudre X,Frappe d'entrave,Foudre +,K,90
+Foudre X,Foudre,Foudre +,I,90
+Foudre X,Foudre +,Foudre +,J,90
+Tir Foudre X,Diskobolos,Foudre X,I,85
+Tir Foudre X,Lancer bloquant,Foudre X,E,85
+Tir Foudre X,Brasier X,Foudre X,A,85
+Soin +,Foudre,Soin,I,100
+Soin +,Soin,Soin,M,100
+Soin +,Soin,Rafale,O,100
+Soin X,Soin,Soin +,M,100
+Soin X,Soin +,Soin +,N,100
+Bouclier mine,Brasier +,Gravité nulle,A,100
+Bouclier mine,Brasier +,Parade,C,100
+Bouclier mine,Mise à feu,Stop,D,100
+Bouclier mine,Stop +,Parade,M,100
+Mine carrée,Brasier +,Stop,A,100
+Mine carrée,Brasier +,Barrière,C,100
+Mine carrée,Rafale +,Mise à feu,D,100
+Mine carrée,Stop +,Barrière,M,100
+Mine chercheuse,Bouclier mine,Mine carrée,B,100
+Mine chercheuse,Bouclier mine,Aimant X,C,100
+Mine chercheuse,Mine carrée,Aimant X,D,100
+Gravité nulle +,Foudre,Gravité nulle,I,90
+Gravité nulle +,Gravité nulle,Gravité nulle,M,90
+Gravité nulle +,Aimant,Rafale,P,90
+Gravité nulle X,Foudre +,Gravité nulle +,I,80
+Gravité nulle X,Gravité nulle,Gravité nulle +,M,80
+Gravité nulle X,Gravité nulle +,Gravité nulle +,N,80
+Aimant +,Taille électrique,Aimant,K,100
+Aimant +,Foudre,Aimant,I,100
+Aimant +,Aimant,Aimant,M,100
+Aimant X,Aimant,Aimant +,I,100
+Aimant X,Aimant +,Aimant +,J,100
+Aimant à munnies,Taille miracle,Aimant +,K,100
+Aimant à munnies,Foudre +,Aimant +,I,100
+Aimant à énergie,Soin,Aimant +,M,100
+Aimant à énergie,Soin +,Aimant +,N,100
+Aimant à Lien-D,Gravité nulle +,Aimant +,L,100
+Aimant à Lien-D,Aimant +,Stop +,I,100
+Rafale +,Coup éclair rapide,Rafale,G,95
+Rafale +,Foudre,Rafale,I,95
+Rafale +,Rafale,Rafale,E,95
+Rafale X,Coup éclair rapide,Rafale +,O,90
+Rafale X,Rafale,Rafale +,M,90
+Rafale X,Rafale +,Rafale +,N,90
+Zappeur,Foudre +,Gravité nulle +,I,20
+Zappeur,Gravité nulle,Gravité nulle +,M,20
+Zappeur,Gravité nulle +,Gravité nulle +,N,20
+Zappeur,Foudre,Gravité nulle,I,10
+Zappeur,Aimant,Rafale,P,10
+Zappeur,Gravité nulle,Gravité nulle,M,10
+Sidéral,Lancer venteux,Courte pause,N,100
+Glaciation,Lancer bloquant,Glacier X,G,100
+Glaciation,Frappe d'entrave,Glacier X,H,100
+Glaciation,Glacier X,Triple Glacier X,F,100
+Art glacial,Glacier X,Glaciation,E,100
+Art glacial,Triple Glacier X,Glaciation,F,100
+Barrage de glace,Glacier X,Bouclier mine,F,100
+Barrage de glace,Glacier X,Mine carrée,H,100
+Eclatement Bras. X,Brasier +,Rafale X,A,20
+Eclatement Bras. X,Brasier X,Rafale +,A,20
+Eclatement Bras. X,Brasier X,Rafale X,B,20
+Eclatement Bras. X,Brasier X,Somni,A,20
+Eclatement Bras. X,Brasier X,Stop +,D,20
+Eclatement Bras. X,Brasier X,Stop X,B,20
+Tempête rageuse,Brasier X fission,Eclatement Bras. X,B,100
+Tempête rageuse,Coup éclair,Brasier X,D,10
+Tempête rageuse,Estoc Brasier,Brasier +,D,10
+Tempête rageuse,Déferlement Bras.,Roulade rapide,C,10
+Tempête rageuse,Brasier,Brasier +,A,10
+Tempête rageuse,Brasier +,Brasier +,B,10
+Tempête rageuse,Brasier +,Brasier X,A,10
+Tempête rageuse,Brasier X,Brasier X,B,10
+Méga Atomnium,Brasier X fission,Brasier rampant,B,100
+Séisme,Explosion brutale,Gravité nulle X,B,90
+Séisme,Explosion brutale,Aimant X,C,90
+Séisme,Taille électrique,Bouclier mine,O,30
+Séisme,Frappe d'entrave,Mine carrée,L,30
+Séisme,Explosion brutale,Explosion brutale,N,30
+Météore,Géo-Impact,Séisme,B,100
+Météore,Explosion brutale,Gravité nulle X,B,10
+Météore,Explosion brutale,Aimant X,C,10
+Tornade,Aimant X,Rafale X,N,100
+Tornade,Coup éclair rapide,Rafale +,O,10
+Tornade,Rafale,Rafale +,M,10
+Tornade,Rafale +,Rafale +,N,10
+Tornade,Coup éclair rapide,Rafale,G,5
+Tornade,Foudre,Rafale,I,5
+Tornade,Rafale,Rafale,E,5
+Transcendance,Spirale aimantée,Gravité nulle X,J,100
+Mini,Aimant +,Zappeur,N,100
+Mini,Aimant X,Aimant X,J,100
+Mini,Aimant X,Ficelage,I,100
+Black-out,Gravité nulle,Folie,M,100
+Black-out,Gravité nulle +,Folie,N,100
+Black-out,Gravité nulle +,Arsenic,P,100
+Mise à feu,Brasier,Ficelage,A,100
+Mise à feu,Brasier +,Ficelage,C,100
+Stop +,Somni,Somni,L,100
+Stop +,Somni,Stop,K,100
+Stop +,Stop,Stop,I,100
+Stop X,Stop,Stop +,I,100
+Stop X,Stop +,Stop +,J,100
+Glissade visée,Estoc glissé,Aimant +,P,100
+Glissade visée,Estoc glissé,Glissade aérienne,C,100
+Glissade visée,Aimant,Glissade aérienne,L,100
+Roulade Foudre,Déferlement Fdr,Roulade,P,80
+Roulade Foudre,Foudre X,Roulade,L,80
+Roulade Foudre,Parade choc,Roulade,L,80
+Roulade Brasier,Brasier X,Roulade rapide,B,100
+Roulade Brasier,Brasier X fission,Roulade rapide,B,100
+Roulade Brasier,Déferlement Bras,Roulade rapide,C,90
+Glissade glacée,Taille gelante,Glissade aérien.,F,100
+Glissade glacée,Glacier X,Glissade aérien.,H,100
+Vol plané Bras.,Déferlement Bras.,Vol plané,C,100
+Vol plané Bras.,Brasier X,Vol plané,B,100
+Parade guéris.,Soin X,Parade,P,100
+Parade guéris.,Esuna,Parade,C,100
+Parade choc,Taille électrique,Parade,L,100
+Parade choc,Foudre X,Parade,I,100
+Parade venim.,Taille venimeuse,Parade,H,80
+Parade venim.,Arsenic,Parade,P,80
+Barrière guéris.,Soin X,Barrière,P,100
+Barrière guéris.,Esuna,Barrière,N,100
+Barrière étour.,Frappe étourdis.,Barrière,C,100
+Barrière étour.,Folie,Barrière,L,100
+Barrière arrêt,Stop X,Barrière,C,80
+Croc vengeur,Estoc glissé,Contre puissant,P,100
+Lancer vengeur,Estoc glissé,Diskobolos,P,100
+Déferlement veng.,Estoc glissée,Déferlement Bras.,C,100
+Déferlement veng.,Estoc glissée,Déferlement Fdr.,L,100
+Rayon d'éclair,Coup éclair,Brume sombre,-,10
+Rayon d'éclair,Coup éclair,Glissade aérien.,-,10
+Rayon d'éclair,Estoc Brasier,Déferlement Fdr.,-,10
+Rayon d'éclair,Frappe d'entrave,Foudre +,-,10
+Rayon d'éclair,Foudre,Foudre +,-,10
+Rayon d'éclair,Foudre +,Foudre +,-,10
+Rayon d'éclair,Rafale X,Déferlement Barr.,-,10
+Salve enflammée,Diskobolos,Foudre X,-,15
+Salve enflammée,Lancer bloquant,Foudre X,-,15
+Salve enflammée,Brasier X,Foudre X,-,15
+Salve enflammée,Coup éclair,Gravité nulle X,-,10
+Bioprotection,Taille vemineuse,Parade,-,20
+Bioprotection,Arsenic,Parade,-,20
+Bioprotection,Coup éclair rapide,Arsenic,-,5
+Bioprotection,Estoc glissé,Arsenic,-,5
+Bioprotection,Diskobolos,Arsenic,-,5

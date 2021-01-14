@@ -1,0 +1,190 @@
+Personnage,Type,Nom,Obtention
+TVA,Attaque,Coup éclair rapide,Dès le début du jeu
+TVA,Attaque,Coup éclair,Coffre (Ven/Aqua) Mog/Mixage (Terra)
+T,Attaque,Pluie de météores,Mixage
+A,Attaque,Heure magique,Mixage
+TVA,Attaque,Estoc glissé,Dès le début du jeu (Terra/Ven) Mog (Aqua)
+TVA,Attaque,Estoc Brasier,Récompense Courses folles
+T,Attaque,Brume sombre,Coffre
+TVA,Attaque,Aquilon,Récompense du mini-jeu du Colisée
+T,Attaque,Lame du chaos,Mixage
+T,Attaque,Zantetsuken,Mog/Mixage
+TVA,Attaque,Diskobolos,Dès le début du jeu (Ven) Coffre (Terra/Aqua)
+TVA,Attaque,Lancer bloquant,Coffre (Ven) Mini-jeu Glaces à gogo
+V,Attaque,Lancer aimant,Coffre
+V,Attaque,Lancer étincelle,Mixage
+V,Attaque,Lancer venteux,Coffre
+TVA,Attaque,Déferlement Bras.,Coffre (Ven/Aqua) Mog/Mixage (Terra)
+A,Attaque,Déferlement Barr.,Coffre
+TVA,Attaque,Déferlement Fdre.,Coffre (Terra) Mixage (Ven/Aqua)
+TVA,Attaque,Slam aérien,Coffre
+T,Attaque,Ars Solum,Coffre
+V,Attaque,Arcanes,Mixage
+VA,Attaque,Donne-temps,Coffre (Aqua) Mixage (Ven)
+TVA,Attaque,Taille venimeuse,Coffre (Terra) Mixage (Ven)
+A,Attaque,Taille miracle,Plateau royal/Mixage
+TVA,Attaque,Taille gelante,Plateau toon ou Mog/Mixage
+TVA,Attaque,Taille électrique,Dès le début du jeu (Terra) Coffre (Ven) Mog (Aqua)
+TVA,Attaque,Taille jackpot,Coffre
+TVA,Attaque,Frappe enflammée,Coffre
+TVA,Attaque,Frappe étourdiss.,Mog/Mixage (Terra/ven) Coffre (Aqua)
+TVA,Attaque,Frappe d'entrave,Coffre (Ven) Mog/Mixage (Terra/Aqua)
+T,Attaque,Explosion brutale,Coffre
+V,Attaque,Frappe tornade,Coffre
+TVA,Attaque,Spirale aimantée,Mixage
+T,Attaque,Coupe-vent,Coffre
+T,Attaque,Tempête limite,Stickers
+V,Attaque,Salut,Stickers
+TVA,Attaque,Collision aimantée,Stickers (Ven) Mixage (Terra/Aqua)
+T,Attaque,Géo-impact,Coffre
+T,Attaque,Sacrifice,Plateau miel ou Mixage
+TVA,Attaque,Courte pause,Coffre
+TVA,Magie,Brasier,Coffre
+TVA,Magie,Brasier +,Coffre
+TVA,Magie,Brasier X,Coffre
+T,Magie,Brasier X obscur,Mixage
+TVA,Magie,Brasier X fission,Coffre (Terra/Aqua) Mixage (Ven)
+A,Magie,Triple Brasier X,Mixage
+TVA,Magie,Brasier rampant,Mixage
+TVA,Magie,Glacier,Coffre (Terra/Ven) Dès le début du jeu (Aqua)
+TVA,Magie,Glacier +,Glaces à gogo/Mog/Mixage
+TVA,Magie,Glacier X,Glaces à gogo/Mog/Mixage
+A,Magie,Triple Glacier X,Mixage
+TVA,Magie,Foudre,Coffre (Terra/Ven) Dès le début du jeu (Aqua)
+TVA,Magie,Foudre +,Coffre
+TVA,Magie,Foudre X,Mixage
+A,Magie,Tir Foudre X,Mixage
+TVA,Magie,Soin,Coffre
+TVA,Magie,Soin +,Mog/Mixage (Terra) Coffre (Ven/Aqua)
+TVA,Magie,Soin X,Mog/Mixage
+TVA,Magie,Esuna,Coffre (Terra) Mog (Ven/Aqua)
+TVA,Magie,Bouclier mine,Mog/Mixage (Terra) Coffre (Ven/Aqua)
+TVA,Magie,Mine carrée,Coffre (Terra/Aqua) Mog/Mixage (Ven)
+A,Magie,Mine chercheuse,Mixage
+TVA,Magie,Gravité nulle,Coffre
+TVA,Magie,Gravité nulle +,Coffre
+TVA,Magie,Gravité nulle X,Coffre (Terra) Mixage (Ven/Aqua)
+TVA,Magie,Aimant,Mixage (Terra) Coffre (Ven/Aqua)
+TVA,Magie,Aimant +,Fruitball
+TVA,Magie,Aimant X,Mixage (Terra) Coffre (Ven/Aqua)
+A,Magie,Aimant à munnies,Mixage
+A,Magie,Aimant à énergie,Mixage
+A,Magie,Aimant à liens-D,Mixage
+TVA,Magie,Rafale,Mog (Terra/Aqua) Dès le début du jeu (Ven)
+TVA,Magie,Rafale +,Courses folles
+TVA,Magie,Rafale X,Mixage (Terra) Coffre (Ven/Aqua)
+V,Magie,Zappeur,Coffre
+V,Magie,Sidéral,Mixage
+TVA,Magie,Glaciation,Mixage (Terra/Ven) Stickers (Aqua)
+A,Magie,Art glacial,Mixage
+A,Magie,Barrage de glace,Coffre
+A,Magie,Eclatemt Bras. X,Coffre
+A,Magie,Tempête rageuse,Mixage
+TVA,Magie,Méga Atomnium,Mixage
+T,Magie,Séisme,Mixage
+T,Magie,Météore,Mixage
+Ventus,Magie,Tornade,Mixage
+TVA,Magie,Transcendance,Mixage
+TVA,Magie,Mini,Mixage (Terra/Aqua) Coffre (Ven)
+TVA,Magie,Black-out,Coffre (Terra) Mog/Mixage (Ven/Aqua)
+TVA,Magie,Mise à feu,Mog/Mixage (Terra/Ven) Stickers (Aqua)
+TVA,Magie,Folie,Mog
+TVA,Magie,Ficelage,Mog (Terra/Ven) Coffre (Aqua)
+TVA,Magie,Arsenic,Mog (Terra) Coffre (Ven/Aqua)
+TVA,Magie,Somni,Coffre
+TVA,Magie,Stop,Coffre (Terra/Ven) Mog (Aqua)
+TVA,Magie,Stop +,Mog/Mixage
+TVA,Magie,Stop X,Mog/Mixage
+TVA,Magie,Morphée,Coffre
+TVA,Objets,Potion,Mog/Coffre
+TVA,Objets,Potion +,Mog/Coffre
+TVA,Objets,Mégapotion,Mog/Coffre
+TVA,Objets,Ether,Mog/Coffre
+TVA,Objets,Mégaéther,Mog/Coffre
+TVA,Objets,Panacée,Mog/Coffre
+TVA,Objets,Elixir,Mog/Coffre
+TVA,Objets,Mégalixir,Mog/Coffre
+TVA,Objets,Lettre-ballon,Mog/Coffre
+T,Objets,Faste vanillé,Fabrique de glace de Disneyville
+V,Objets,Miel doux,Fabrique de glace de Disneyville
+A,Objets,Abracadamiam,Fabrique de glace de Disneyville
+TVA,Objets,Volcan piquant,Fabrique de glace de Disneyville
+TVA,Objets,Ours polaire,Fabrique de glace de Disneyville
+TVA,Objets,Citron vitaminé,Fabrique de glace de Disneyville
+TA,Objets,Baie royale,Fabrique de glace de Disneyville
+V,Objets,Parfait Dingo,Fabrique de glace de Disneyville
+T,Objets,Croustirock,Fabrique de glace de Disneyville
+VA,Objets,Voie lactée,Fabrique de glace de Disneyville
+T,Objets,Vilain Pat,Fabrique de glace de Disneyville
+V,Objets,Double-croquant,Fabrique de glace de Disneyville
+A,Objets,Donald pétillant,Fabrique de glace de Disneyville
+TVA,Objets,Sorbet Daisy,Fabrique de glace de Disneyville
+TVA,Entraide,Soin collectif,Mog de l'Arène des Mirages
+TVA,Entraide,Soin + collectif,Mog de l'Arène des Mirages
+TVA,Entraide,Soin X collectif,Mog de l'Arène des Mirages
+TVA,Entraide,Esuna collectif,Mog de l'Arène des Mirages
+TVA,Entraide,Confettis,Frapper la boîte aux lettre de la place centrale à Disneyville
+TVA,Entraide,Feux d'artifice,Stickers (Terra/Ven) ou Mog de l'Arène des Mirages (Aqua)
+TVA,Entraide,Provocation,Mog de l'Arène des Mirages
+TVA,Entraide,Pose triomphale,Mog de l'Arène des Mirages
+TVA,Entraide,Invisibilité,Mog de l'Arène des Mirages
+TVA,Entraide,Assaut en choeur,Mog de l'Arène des Mirages
+TVA,Entraide,Electrocution,Mog de l'Arène des Mirages
+TVA,Entraide,Trinité,Mog de l'Arène des Mirages
+TVA,Entraide,Illusion-L,Battle Mission (La Nécropole des Keyblades)
+TVA,Entraide,Illusion-R,Battle Mission (Le Palais des Rêves)
+TVA,Entraide,Illusion-S,Battle Mission (La Forêt des Nains)
+TVA,Entraide,Illusion-P,Battle Mission (Disneyville)
+TVA,Entraide,Illusion-D,Battle Mission (Le Jardin Radieux)
+TVA,Action,Saut,Dès le début du jeu
+TVA,Action,Super saut,Coffre (Terra) Histoire principale (Ven/Aqua)
+V,Action,Roulade,Dès le début du jeu
+V,Action,Roulade Foudre,Mixage
+VA,Action,Roulade rapide,Dès le début du jeu
+A,Action,Roulade Brasier,Mixage
+TVA,Action,Glissade aérien.,Histoire principale
+TVA,Action,Glissade glacée,Mixage
+T,Action,Impact sonique,Histoire principale
+T,Action,Glissade,Dès le début du jeu
+V,Action,Feinte,Histoire principale
+V,Action,Vol plané,Histoire principale
+V,Action,Super vol plané,Coffre de Disneyville
+V,Action,Vol plané Bras.,Mixage
+VA,Action,Glissade visée,Mixage
+A,Action,Cp en traître,Coffre de l'Espace profond
+A,Action,Double-envol,Histoire principale
+TVA,Action,Parade,Dès le début du jeu
+TVA,Action,Parade guéris.,Mixage
+TVA,Action,Parade concen.,Plateau royal
+TVA,Action,Parade choc,Mog/Mixage
+TVA,Action,Parade venim.,Mixage
+A,Action,Barrière,Dès le début du jeu
+A,Action,Barrière guéris.,Mixage
+A,Action,Barrière conc.,Plateau royal
+A,Action,Barrière étour.,Mog/Mixage
+A,Action,Barrière arrêt,Mixage
+T,Action,Contre puissant,Histoire principale
+T,Action,Croc vengeur,Coffre de Disneyville
+V,Action,Contre assaut,Coffre du Jardin Radieux
+V,Action,Frappe feintée,Coffre de Disneyville
+V,Action,Lancer vengeur,Coffre de la Forêt des Nains
+A,Action,Contre explosif,Coffre du Jardin Radieux
+A,Action,Déferlemt veng.,Coffre de la Forêt des Nains
+TVA,Action,Pirouette,Mog de l'Arène des Mirages (320 médailles)
+TVA,Tir visé,Pluie de météores,Plateau Royal (Chasse aux commandes)
+TVA,Tir visé,Salve enflammée,Coffre de la Forêt des Nains (Terra) Dès le début du jeu (Ven) Mog de l'Arène des Mirages (Aqua)
+TVA,Tir visé,Serpent du chaos,Battre Capitaine Justice/Dark au Fruitball
+A,Tir visé,Tir de bulles,Dès le début du jeu
+T,Tir visé,Volée obscure,Histoire principale (Combat contre Braig)
+TVA,Tir visé,Ragnarok,Plateau Keyblade/secret (Chasse aux commandes)
+TVA,Tir visé,Orage,Coffre du Palais des Rêves
+TVA,Tir visé,Bioprotection,Mog de l'Arène des Mirages
+V,Tir visé,Bombe puissante,Coffre de l'Espace profond
+A,Tir visé,Pluie multicolore,Coffre de l'Espace profond
+TVA,Tir visé,Charge photoniq.,Mog de l'Arène des Mirages
+TVA,Tir visé,Zéro absolu,Coffre de Disneyville (Terra) Coffre du Domaine Enchanté (Ven/Aqua)
+TVA,Tir visé,Rayon d'éclair,Plateau spatial/secret (Chasse aux commandes)
+T,Tir visé,Ombre sonique,Dès le début du jeu
+T,Tir visé,Canon Ultima,Arène des Mirages (Arène : Gardiens de l'Arène)
+V,Tir visé,Multivortex,Arène des Mirages (Arène : Gardiens de l'Arène)
+A,Tir visé,Lumifloraison,Arène des Mirages (Arène : Gardiens de l'Arène)

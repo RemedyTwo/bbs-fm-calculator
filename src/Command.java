@@ -19,6 +19,7 @@ public class Command
 
     public String toString()
     {
+        /*
         String string = "";
         if(terra)
         {
@@ -34,5 +35,7 @@ public class Command
         }
         string += " " + type + " " + nom;
         return string;
+        */
+        return nom;
     }
 }

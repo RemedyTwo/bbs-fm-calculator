@@ -15,6 +15,6 @@ public class Mixage
 
     public String toString()
     {
-        return resultat.nom + " = " + first_ingredient.nom + " + " + second_ingredient.nom + " / " + Character.toString(type) + " / " + Integer.toString(rate);
+        return resultat.nom + " = " + first_ingredient.nom + " + " + second_ingredient.nom + " / " + Character.toString(type) + " / " + Integer.toString(rate) + "%";
     }    
 }

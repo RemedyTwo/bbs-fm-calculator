@@ -16,7 +16,7 @@ V,Attaque,Lancer étincelle,Mixage
 V,Attaque,Lancer venteux,Coffre
 TVA,Attaque,Déferlement Bras.,Coffre (Ven/Aqua) Mog/Mixage (Terra)
 A,Attaque,Déferlement Barr.,Coffre
-TVA,Attaque,Déferlement Fdre.,Coffre (Terra) Mixage (Ven/Aqua)
+TVA,Attaque,Déferlement Fdr.,Coffre (Terra) Mixage (Ven/Aqua)
 TVA,Attaque,Slam aérien,Coffre
 T,Attaque,Ars Solum,Coffre
 V,Attaque,Arcanes,Mixage
@@ -78,7 +78,7 @@ V,Magie,Sidéral,Mixage
 TVA,Magie,Glaciation,Mixage (Terra/Ven) Stickers (Aqua)
 A,Magie,Art glacial,Mixage
 A,Magie,Barrage de glace,Coffre
-A,Magie,Eclatemt Bras. X,Coffre
+A,Magie,Eclatement Bras. X,Coffre
 A,Magie,Tempête rageuse,Mixage
 TVA,Magie,Méga Atomnium,Mixage
 T,Magie,Séisme,Mixage

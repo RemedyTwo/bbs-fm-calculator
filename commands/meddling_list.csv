@@ -33,7 +33,7 @@ Lancer venteux,Lancer bloquant,Rafale X,B,100
 Lancer venteux,Lancer aimant,Rafale X,F,100
 Déferlement Bras.,Estoc Brasier,Mise à feu,D,100
 Déferlement Bras.,Frappe enflammée,Brasier +,A,100
-Déferlement Bras.,Frappe étoudiss.,Brasier +,O,100
+Déferlement Bras.,Frappe étourdiss.,Brasier +,O,100
 Déferlement Bras.,Frappe d'entrave,Brasier +,K,100
 Déferlement Barr.,Estoc Brasier,Barrière,D,100
 Déferlement Barr.,Taille électrique,Barrière,K,100
@@ -60,10 +60,10 @@ Arcanes,Estoc glissé,Glacier,E,5
 Arcanes,Estoc glissé,Glacier +,G,5
 Arcanes,Taille venimeuse,Soin +,P,5
 Arcanes,Taille gelante,Soin +,G,5
-Donne-Temps,Slam aérien,Stop X,F,100
-Donne-Temps,Stop X,Barrière,C,20
-Donne-Temps,Déferlement Barr.,Taille miracle,P,10
-Donne-Temps,Taille électrique,Taille jackpot,K,10
+Donne-temps,Slam aérien,Stop X,F,100
+Donne-temps,Stop X,Barrière,C,20
+Donne-temps,Déferlement Barr.,Taille miracle,P,10
+Donne-temps,Taille électrique,Taille jackpot,K,10
 Taille venimeuse,Coup éclair rapide,Arsenic,O,95
 Taille venimeuse,Estoc glissé,Arsenic,K,95
 Taille venimeuse,Diskobolos,Arsenic,D,95
@@ -81,7 +81,7 @@ Taille jackpot,Taille miracle,Soin,O,100
 Taille jackpot,Taille venimeuse,Soin +,P,95
 Taille jackpot,Taille gelante,Soin +,G,95
 Taille jackpot,Soin X,Parade guéris.,N,90
-Taille jackpot,Soin X,Parade conc.,P,90
+Taille jackpot,Soin X,Parade concen.,P,90
 Taille jackpot,Soin X,Barrière guéris.,N,90
 Taille jackpot,Soin X,Barrière conc.,P,90
 Frappe enflammée,Taille venimeuse,Brasier +,D,100
@@ -110,12 +110,12 @@ Salut,Lancer venteux,Soin X,N,100
 Collision aimantée,Coup éclair rapide,Aimant +,K,80
 Collision aimantée,Taille électrique,Aimant +,L,80
 Collision aimantée,Gravité nulle +,Aimant,I,80
-Géo-Impact,Explosion brutale,Explosion brutale,N,70
+Géo-impact,Explosion brutale,Explosion brutale,N,70
 Sacrifice,Brume sombre,Zappeur,B,100
 Sacrifice,Taille venimeuse,Zappeur,D,100
 Courte pause,Soin X,Parade guéris.,N,10
 Courte pause,Soin X,Barrière guéris.,N,10
-Courte pause,Soin X,Parade conc.,P,10
+Courte pause,Soin X,Parade concen.,P,10
 Courte pause,Soin X,Barrière conc.,P,10
 Brasier +,Estoc Brasier,Brasier,D,100
 Brasier +,Frappe enflammée,Brasier,D,100
@@ -185,8 +185,8 @@ Aimant à munnies,Taille miracle,Aimant +,K,100
 Aimant à munnies,Foudre +,Aimant +,I,100
 Aimant à énergie,Soin,Aimant +,M,100
 Aimant à énergie,Soin +,Aimant +,N,100
-Aimant à Lien-D,Gravité nulle +,Aimant +,L,100
-Aimant à Lien-D,Aimant +,Stop +,I,100
+Aimant à liens-D,Gravité nulle +,Aimant +,L,100
+Aimant à liens-D,Aimant +,Stop +,I,100
 Rafale +,Coup éclair rapide,Rafale,G,95
 Rafale +,Foudre,Rafale,I,95
 Rafale +,Rafale,Rafale,E,95
@@ -227,7 +227,7 @@ Séisme,Explosion brutale,Aimant X,C,90
 Séisme,Taille électrique,Bouclier mine,O,30
 Séisme,Frappe d'entrave,Mine carrée,L,30
 Séisme,Explosion brutale,Explosion brutale,N,30
-Météore,Géo-Impact,Séisme,B,100
+Météore,Géo-impact,Séisme,B,100
 Météore,Explosion brutale,Gravité nulle X,B,10
 Météore,Explosion brutale,Aimant X,C,10
 Tornade,Aimant X,Rafale X,N,100
@@ -252,14 +252,14 @@ Stop +,Stop,Stop,I,100
 Stop X,Stop,Stop +,I,100
 Stop X,Stop +,Stop +,J,100
 Glissade visée,Estoc glissé,Aimant +,P,100
-Glissade visée,Estoc glissé,Glissade aérienne,C,100
-Glissade visée,Aimant,Glissade aérienne,L,100
-Roulade Foudre,Déferlement Fdr,Roulade,P,80
+Glissade visée,Estoc glissé,Glissade aérien.,C,100
+Glissade visée,Aimant,Glissade aérien.,L,100
+Roulade Foudre,Déferlement Fdr.,Roulade,P,80
 Roulade Foudre,Foudre X,Roulade,L,80
 Roulade Foudre,Parade choc,Roulade,L,80
 Roulade Brasier,Brasier X,Roulade rapide,B,100
 Roulade Brasier,Brasier X fission,Roulade rapide,B,100
-Roulade Brasier,Déferlement Bras,Roulade rapide,C,90
+Roulade Brasier,Déferlement Bras.,Roulade rapide,C,90
 Glissade glacée,Taille gelante,Glissade aérien.,F,100
 Glissade glacée,Glacier X,Glissade aérien.,H,100
 Vol plané Bras.,Déferlement Bras.,Vol plané,C,100
@@ -272,13 +272,13 @@ Parade venim.,Taille venimeuse,Parade,H,80
 Parade venim.,Arsenic,Parade,P,80
 Barrière guéris.,Soin X,Barrière,P,100
 Barrière guéris.,Esuna,Barrière,N,100
-Barrière étour.,Frappe étourdis.,Barrière,C,100
+Barrière étour.,Frappe étourdiss.,Barrière,C,100
 Barrière étour.,Folie,Barrière,L,100
 Barrière arrêt,Stop X,Barrière,C,80
 Croc vengeur,Estoc glissé,Contre puissant,P,100
 Lancer vengeur,Estoc glissé,Diskobolos,P,100
-Déferlement veng.,Estoc glissée,Déferlement Bras.,C,100
-Déferlement veng.,Estoc glissée,Déferlement Fdr.,L,100
+Déferlemt veng.,Estoc glissé,Déferlement Bras.,C,100
+Déferlemt veng.,Estoc glissé,Déferlement Fdr.,L,100
 Rayon d'éclair,Coup éclair,Brume sombre,-,10
 Rayon d'éclair,Coup éclair,Glissade aérien.,-,10
 Rayon d'éclair,Estoc Brasier,Déferlement Fdr.,-,10
@@ -290,7 +290,7 @@ Salve enflammée,Diskobolos,Foudre X,-,15
 Salve enflammée,Lancer bloquant,Foudre X,-,15
 Salve enflammée,Brasier X,Foudre X,-,15
 Salve enflammée,Coup éclair,Gravité nulle X,-,10
-Bioprotection,Taille vemineuse,Parade,-,20
+Bioprotection,Taille venimeuse,Parade,-,20
 Bioprotection,Arsenic,Parade,-,20
 Bioprotection,Coup éclair rapide,Arsenic,-,5
 Bioprotection,Estoc glissé,Arsenic,-,5

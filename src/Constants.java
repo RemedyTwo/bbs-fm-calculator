@@ -8,10 +8,11 @@ public class Constants
     String skill_list_path = "commands\\skill_list.csv";
 
     public String[][] command_list = convert_ArrayList_to_2D_Array(convert_CSV_to_List(command_list_path));
-    public String[][] tableau_de_mixage = convert_ArrayList_to_2D_Array(convert_CSV_to_List(meddling_list_path));
+    public String[][] meddling_list = convert_ArrayList_to_2D_Array(convert_CSV_to_List(meddling_list_path));
     public String[][] tableau_de_competences = convert_ArrayList_to_2D_Array(convert_CSV_to_List(skill_list_path));
 
     public Command[] tableau_de_commandes = construct_Command_List();
+    public Mixage[] tableau_de_mixage = construct_Meddling_List();
 
     public ArrayList<String> convert_CSV_to_List(String path)
     {
@@ -36,7 +37,7 @@ public class Constants
     public String[][] convert_ArrayList_to_2D_Array(ArrayList<String> list)
     {
         int compteur = 0;
-        String[][] tableau_de_commande = new String[list.size() / 4][3];
+        String[][] tableau_de_commande = new String[list.size() / 4][4];
         for (int i = 0; i < tableau_de_commande.length; i++) 
         {
             for(int j = 0; j < tableau_de_commande[i].length; j++)
@@ -89,6 +90,53 @@ public class Constants
             }
         }
         return tableau_de_commandes;
+    }
+
+    public Mixage[] construct_Meddling_List() //Commande,1er ingrédient,2nd ingrédient,Type,%
+
+    {
+        tableau_de_mixage = new Mixage[meddling_list.length];
+        for(int i = 0; i < meddling_list.length; i++)
+        {
+            tableau_de_mixage[i] = new Mixage();
+            for(int j = 0; j < meddling_list[i].length; j++)
+            {
+                String string = meddling_list[i][j];
+                if(j == 0)
+                {
+                    tableau_de_mixage[i].resultat = recherche_commande(string);
+                }
+                else if(j == 1)
+                {
+                    tableau_de_mixage[i].first_ingredient = recherche_commande(string);
+                }
+                else if(j == 2)
+                {
+                    tableau_de_mixage[i].second_ingredient = recherche_commande(string);
+                }
+                else if(j == 3)
+                {
+                    tableau_de_mixage[i].type = string.charAt(0);
+                }
+                else if(j == 4)
+                {
+                    tableau_de_mixage[i].rate = Integer.parseInt(string);
+                }
+            }
+        }
+        return tableau_de_mixage;
+    }
+
+    public Command recherche_commande(String string)
+    {
+        for(int i = 0; i < tableau_de_commandes.length; i++)
+        {
+            if(tableau_de_commandes[i].nom == string)
+            {
+                return tableau_de_commandes[i];
+            }
+        }
+        return null;
     }
 
     public int compte_ligne(String path)
